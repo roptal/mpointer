@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" score="34" last-seen="1634619936"/>
+    <application id="gnome-language-selector.desktop" score="54" last-seen="1634619504"/>
+    <application id="gkbd-keyboard-display.desktop" score="1" last-seen="1634619411"/>
+    <application id="firefox.desktop" score="21" last-seen="1634608903"/>
+    <application id="org.gnome.Terminal.desktop" score="538" last-seen="1634619864"/>
+    <application id="org.gnome.gedit.desktop" score="19" last-seen="1634619935"/>
+    <application id="ibus-setup-hangul.desktop" score="4" last-seen="1634619398"/>
+    <application id="fcitx-config-gtk3.desktop" score="14" last-seen="1634619706"/>
+    <application id="gnome-control-center.desktop" score="423" last-seen="1634619519"/>
+    <application id="update-manager.desktop" score="0" last-seen="1634608820"/>
+  </context>
+</application-state>
